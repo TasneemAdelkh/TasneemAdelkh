@@ -10,4 +10,5 @@ Skills:
 - </> HTML / CSS
 - 🇨 C,C++
 
-- 🌱 I’m currently learning RHCSA, RHCE and building projects 
+- 🌱 I’m currently learning RHCSA, RHCE and building projects
+- 📫 How to reach me: tasneem.adel8@gmail.com
